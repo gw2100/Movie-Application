@@ -38,6 +38,9 @@ nohup.out
 /movie-frontend/node
 /movie-frontend/package-lock.json
 
+### Local baseline runtime artifacts (scripts/start-local.sh) ###
+/scripts/logs/
+
 container.log
 
 movie-app.iml
